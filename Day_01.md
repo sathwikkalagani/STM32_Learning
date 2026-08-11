@@ -74,4 +74,3 @@ STM32 Learning       → SWV/ITM, OpenOCD, Semihosting ✅
 C Phase 1            → COMPLETE ✅
 C Phase 2            → Bitwise completed; final operator topics remaining 🔄
 
-This is a good format to show your manager because it clearly shows what you learned + what is currently in progress.
